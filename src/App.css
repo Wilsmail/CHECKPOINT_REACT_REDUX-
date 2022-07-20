@@ -1,0 +1,110 @@
+.App {
+  
+  text-align: center;
+  
+  
+}
+
+.Appp{
+
+  background-color: black;
+  height: 1000px;
+  padding-top:100px;
+  display: block;
+}
+
+.bigbox{
+  height: 600px;
+  display:flex;
+  align-content: stretch;
+  
+}
+
+
+
+.searchbar{
+
+  align-content: end;
+  
+}
+
+.film-box{
+
+  height: 300px;
+  width:500px;
+  margin-left: 20px;
+  
+
+}
+
+.img-film{
+    height: 50%;
+    width: 100%;
+    object-fit: cover;
+    
+}
+
+.img{
+  height: 100%;
+  width: 100%;
+}
+
+.name-film{
+  height: 50%;
+  width: 100%;
+  color: white;
+  
+}
+
+.description{
+  background-color: black;
+  height: 1000px;
+  padding-top:10px;
+  display: block;
+  margin-left: 300px;
+
+}
+
+
+.info-film{
+  height: 300px;
+  width: 80%;
+  border:1px solid green;
+  display:flex;
+
+}
+
+.covers{
+  height: 300px;
+  width: 40%;
+  border: 1px solid turquoise;
+  object-fit:cover ;
+
+}
+
+.imgg{
+  height: 100%;
+  width: 100%;
+  
+}
+
+.synopsys{
+  height: 300px;
+  width: 60%;
+  border: 1px solid purple;
+  color:white;
+  
+}
+
+.film{
+
+  height: 450px;
+  width: 80%;
+  border: 1px solid blue;
+  object-fit:cover ;
+}
+
+.dim-film{
+  height: 100%;
+  width: 100%;
+}
